@@ -8,7 +8,7 @@ namespace DegerVeReferansTipler
         {
             Console.WriteLine("Hello World!");
 
-            int sayi1 = 10;
+            int sayi1 = 10; 
             int sayi2 = 30;
             sayi1 = sayi2;  //sayi2 değeri sayi1 değerine aktarılır ve sayi1 ın değeri artık 30 olur.
             sayi2 = 65;     //sayi2 nın değeri 65 yap
@@ -28,7 +28,6 @@ namespace DegerVeReferansTipler
             //bellekte stack ve heap var.
             //değer tipler stack te tanımlanır. sayi1=10 (sayi1 in değeri 10 dur) sayi2=30 (sayi2 nin değeri 30)
             //referans tipler heapte tanımlanır. 
-
 
 
         }
