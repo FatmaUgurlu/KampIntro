@@ -25,6 +25,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{FED29B31-1CB2-4F60-AA2D-12C9AA56A902}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{3F004F4D-1085-4EB1-9ED8-07ECE23D9665}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{FBC0BE58-3DB1-47A5-818D-787ECF835FC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{FED29B31-1CB2-4F60-AA2D-12C9AA56A902}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FED29B31-1CB2-4F60-AA2D-12C9AA56A902}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FED29B31-1CB2-4F60-AA2D-12C9AA56A902}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F004F4D-1085-4EB1-9ED8-07ECE23D9665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F004F4D-1085-4EB1-9ED8-07ECE23D9665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F004F4D-1085-4EB1-9ED8-07ECE23D9665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F004F4D-1085-4EB1-9ED8-07ECE23D9665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBC0BE58-3DB1-47A5-818D-787ECF835FC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC0BE58-3DB1-47A5-818D-787ECF835FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC0BE58-3DB1-47A5-818D-787ECF835FC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC0BE58-3DB1-47A5-818D-787ECF835FC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
